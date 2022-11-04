@@ -120,6 +120,7 @@ def killed_by_ball():
                     r_circle[j]
                 ):
                     t_circle[i] = 101
+                    
 
 def killer(i):
     t_circle[i] = 101
